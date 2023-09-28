@@ -4,4 +4,4 @@
 
  no | description | checkmark
 ----|-------------|---------
-1| install next manually | 
+1| install next manually | ✅
